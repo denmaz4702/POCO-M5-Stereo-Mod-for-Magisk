@@ -7,3 +7,4 @@
 ## Installation: download the .ZIP archive and install it with your Magisk Manager app.
 
 ## Changelog: -
+* **v1.0** (Current) — Release of the stereo mod for POCO M5. Backup of `audio_device_diamond.xml` and original channel balancing.
