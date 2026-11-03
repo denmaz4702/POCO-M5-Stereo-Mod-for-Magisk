@@ -4,6 +4,6 @@
 
 ## *DISCLAIMER:* ANYTHING YOU DO TO YOUR DEVICE IS AT YOUR OWN RISK! The author of the modification is *not responsible* for your device.
 
-## Installation: tested download the .ZIP archive and install it with your Magisk Manager app.
+## Installation: download the .ZIP archive and install it with your Magisk Manager app.
 
 ## Changelog: -
